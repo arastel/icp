@@ -3,11 +3,11 @@ entries:
   gardemo:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-07-05T15:12:12.579692927+02:00
+    created: 2019-07-05T15:16:14.246793113+02:00
     description: A Helm chart for Kubernetes
     digest: 87cfd9a16109670fea45daec7e8b57a572581a3b5f59f2e319f7568e09c215b0
     name: gardemo
     urls:
-    - https://raw.githubusercontent.com/arastel/icp/gardemo-0.1.0.tgz
+    - https://raw.githubusercontent.com/arastel/icp/master/gardemo-0.1.0.tgz
     version: 0.1.0
-generated: 2019-07-05T15:12:12.57912624+02:00
+generated: 2019-07-05T15:16:14.246285809+02:00
